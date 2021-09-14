@@ -9,7 +9,7 @@
 
 :root{
   --page-width: 8.5in;
-  --page-height: 11in;
+  --page-height: 16.4in;
   --main-width: 6.4in;
   --sidebar-width: calc(var(--page-width) - var(--main-width));
   --decorator-horizontal-margin: 0.2in;
@@ -93,6 +93,13 @@ li{
 
 .subtitle{
   font-size: 8pt;
+}
+
+#resume  { 
+  text-align: justify;
+  margin-left: 54px;
+  
+
 }
 
 /*** categorial blocks ***/
